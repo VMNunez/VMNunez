@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Víctor 👋
 
-<!--
-**VMNunez/VMNunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a degree in Web Application Development (DAW) and I am expanding my skills towards a junior role in Spain.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning **Angular** and **Java Spring Boot**
+- Building real projects to practise what I learn
+- Currently doing an internship building a SaaS with Next.js + TypeScript + Tailwind + Supabase
+
+## My stack
+
+**Learning:** Angular · Java Spring Boot · SQL  
+**Background:** React · Node.js · TypeScript · CSS · HTML · JavaScript
+
+## Learning projects
+
+| #   | Project                                                                                         | Stack                                           | Live                                                      |
+| --- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------- |
+| 01  | [To-do List](https://github.com/VMNunez/dev-learning/tree/main/angular/01-todo-list)            | Angular · TypeScript · CSS                      | [Live demo](https://01angulartodolist.netlify.app/)       |
+| 02  | [Weather App](https://github.com/VMNunez/dev-learning/tree/main/angular/02-weather-app)         | Angular · TypeScript · CSS · OpenWeatherMap API | [Live demo](https://02angularweatherapp.netlify.app/)     |
+| 03  | [Expense Tracker](https://github.com/VMNunez/dev-learning/tree/main/angular/03-expense-tracker) | Angular · TypeScript · CSS                      | [Live demo](https://03angularexpensetracker.netlify.app/) |
+
+## Goal
+
+Junior / junior-mid developer role in Spain
