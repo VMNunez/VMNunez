@@ -15,11 +15,15 @@ I have a degree in Web Application Development (DAW) and I am expanding my skill
 
 ## Learning projects
 
+### Angular
+
 | #   | Project                                                                                         | Stack                                           | Live                                                      |
 | --- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------- |
 | 01  | [To-do List](https://github.com/VMNunez/dev-learning/tree/main/angular/01-todo-list)            | Angular · TypeScript · CSS                      | [Live demo](https://01angulartodolist.netlify.app/)       |
 | 02  | [Weather App](https://github.com/VMNunez/dev-learning/tree/main/angular/02-weather-app)         | Angular · TypeScript · CSS · OpenWeatherMap API | [Live demo](https://02angularweatherapp.netlify.app/)     |
 | 03  | [Expense Tracker](https://github.com/VMNunez/dev-learning/tree/main/angular/03-expense-tracker) | Angular · TypeScript · CSS                      | [Live demo](https://03angularexpensetracker.netlify.app/) |
+| 04  | [Meal Finder](https://github.com/VMNunez/dev-learning/tree/main/angular/04-meal-finder)         | Angular · TypeScript · CSS · TheMealDB API      | [Live demo](https://04mealfinder.netlify.app/)            |
+| 05  | [Task Manager](https://github.com/VMNunez/dev-learning/tree/main/angular/05-task-manager)       | Angular · TypeScript · Angular Material         | [Live demo](https://05taskmanager.netlify.app/)           |
 
 ## Goal
 
