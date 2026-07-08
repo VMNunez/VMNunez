@@ -5,8 +5,11 @@ I have a degree in Web Application Development (DAW) and I am expanding my skill
 ## What I'm working on
 
 - Learning **Angular** and **Java Spring Boot**
-- Building real projects to practise what I learn
-- Currently doing an internship building a SaaS with Next.js + TypeScript + Tailwind + Supabase
+- Building real full-stack projects to practise what I learn
+
+## Experience
+
+- **Web Developer Intern @ Sagatech** (Mar–Jun 2026) — worked mainly on **Getxo**, a real management SaaS (**Next.js · TypeScript · Tailwind · Supabase**) used internally by the company. I introduced a **GitFlow** workflow to the team (feature branches, pull requests, commit conventions) and wrote the onboarding guide for new contributors.
 
 ## My stack
 
